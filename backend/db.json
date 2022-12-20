@@ -2,9 +2,9 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Teste 1",
-      "autoria": "Aninha",
-      "modelo": "modelo1"
+      "conteudo": "Teste 1 - editado",
+      "autoria": "Aninha - editado",
+      "modelo": "modelo3"
     },
     {
       "id": 2,
@@ -17,36 +17,6 @@
       "conteudo": "Teste 3",
       "autoria": "Aninha",
       "modelo": "modelo3"
-    },
-    {
-      "conteudo": "pensamento de teste",
-      "autoria": "eu",
-      "modelo": "modelo1",
-      "id": 4
-    },
-    {
-      "conteudo": "pensamento teste com a rota ",
-      "autoria": "eu de novo",
-      "modelo": "modelo1",
-      "id": 5
-    },
-    {
-      "conteudo": "modelo 3",
-      "autoria": "eu",
-      "modelo": "",
-      "id": 6
-    },
-    {
-      "conteudo": "teste  dos  modelos",
-      "autoria": "aaaa",
-      "modelo": "modelo2",
-      "id": 7
-    },
-    {
-      "conteudo": "teste modelos",
-      "autoria": "aaaa",
-      "modelo": "modelo3",
-      "id": 8
     }
   ]
 }
